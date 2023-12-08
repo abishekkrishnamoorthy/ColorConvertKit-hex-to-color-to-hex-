@@ -3,7 +3,7 @@ import React from 'react'
 const Header = () => {
   return (
     <header>
-        <h1>color code by name</h1>
+        <h1>hex to color to hex </h1>
     </header>
   )
 }
